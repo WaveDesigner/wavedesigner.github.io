@@ -898,7 +898,7 @@ font-family: 'Roboto', sans-serif;
   background-image: url(images/about-us-bg.jpg);
   padding: 40px 0px;
   box-sizing: border-box;
-  height: 424px
+  min-height: 424px
 }
 
 .rfr-block-cont {
@@ -915,6 +915,7 @@ font-family: 'Roboto', sans-serif;
   font-weight: 600;
   line-height: 24px;
   text-transform: uppercase;
+  cursor: pointer;
 }
 
 .rfr-block-cont p {
@@ -926,6 +927,7 @@ font-family: 'Roboto', sans-serif;
   font-weight: 500;
   line-height: 24px;
   text-transform: uppercase;
+  cursor: pointer;
 }
 
 .footer-border {
